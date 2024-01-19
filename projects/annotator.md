@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cybersecurity_Hero.svg
+image: img/cyber.png
 title: "Annotations, Cybersecurity-based"
 date: 2024
 published: True
