@@ -23,47 +23,47 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-20-08",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Introduction to Computer Science I & II (Data Structures), Discrete Math I & II, Program Structure, Algorithms,  Linear Algebra, Software Engineering I (Ongoing), Security and Trust I (Ongoing)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa",
+      "position": "Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist students with precalculus homework and recitation worksheets. Provide guidance and clarification on mathematical concepts and problem-solving strategies.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Set up and manage regular office hours outside of the classroom to offer personalized assistance to students. Address students’ questions and concerns related to math coursework.",
+        "Tutor, providing one-on-one, group, and in-class tutoring sessions to help students understand complex math concepts."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "UH Manoa",
+      "position": "Annotator, Research Project",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2023-10-18",
+      "endDate": "Present",
+      "summary": "Successfully annotated results of complex datasets",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Understanding of cybersecurity concepts and methodologies",
+        "Worked with project members to refine annotation guidelines, enhancing the quality and consistency of annotated data."
       ]
     }
   ],
@@ -97,15 +97,21 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2019 - 2020",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "2022 - Present",
+      "awarder": "University of Hawaii",
+      "summary": "Semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
+    },
+    {
+      "title": "Phi Theta Kappa Honors Society",
+      "date": "2019",
+      "awarder": "Phi Theta Kappa",
+      "summary": "International honor society of students attending open-access institutions and seeking further education."
     }
   ],
   "references": [
