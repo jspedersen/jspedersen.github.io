@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cities.jpg
+image: img/cityCover.png
 title: "Cities of the Future"
 date: 2023
 published: true
@@ -12,11 +12,7 @@ labels:
 summary: "My group developed a plan, developing upon advanced urban landscapes with the demand to achieve comprehensive solutions across various domains within a city."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/city.jpg">
 
 Cities of the Future was a team-based project we were assigned in ICS 311 (Algorithms). Our task was to identify a problem and find out how we could fix this problem, through various forms of algorithms and data structures, to effectively achieve the goal of improving the functionality or solving the problem at hand. Our group chose to create a city, where all problems that occur in modern ones, were to be fixed.
 
