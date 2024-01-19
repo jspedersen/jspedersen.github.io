@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Cybersecurity_Hero.svg
 title: "Annotations, Cybersecurity-based"
 date: 2024
 published: True
