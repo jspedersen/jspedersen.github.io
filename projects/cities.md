@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/city-future.jpg
+image: img/cities-future.jpg
 title: "Cities of the Future"
 date: 2015
 published: true
