@@ -12,7 +12,7 @@ labels:
 summary: "Annotating Cybersecurity concepts, based on given Cyber-related data."
 ---
 
-<img class="img-fluid" src="../img/annotations.png">
+<img class="img-fluid" src="../img/annotate.png">
 
 For the past couple of months (besides December) I have been allowed to be a part of a cybersecurity-based research project under Dr. Peruma, and graduate student Ana Arujo. My task, which is what is hinted at in my resume under my "Work" section, is taking sets of cybersecurity-related data, and determining what the threat is, based on the given concept's topic. 
 
