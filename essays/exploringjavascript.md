@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring the Dynamic Realm of JavaScript: A Journey through Syntax, Versatility, and Athletic Software Engineering"
+title: "Exploring the Dynamic Realm of JavaScript: The Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
