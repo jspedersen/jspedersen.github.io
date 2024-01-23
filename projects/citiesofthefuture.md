@@ -24,9 +24,9 @@ As a team, we all were tasked to choose algorithms and data structures, with the
 
 Here is a snippet of our introduction paragraph:
     
-        This research paper serves as a comprehensive exploration into the intricacies of urban development by honing in on four critical domains: Traffic Management, 
-    Energy Consumption Optimization, Healthcare Availability, and Water Resource Management. Each of these domains represents a pivotal aspect of modern city life, 
-    and this paper seeks to illuminate their nuanced challenges and opportunities. The crux of our investigation lies in the judicious application of advanced algorithms 
-    and tailored data structures, strategically designed to cater to the unique demands of each sector. The subsequent sections will intricately dissect the applications 
-    of algorithms and data structures within each domain, providing a comprehensive understanding of how these technological interventions can propel urban environments 
-    toward sustainable, efficient, and resilient futures.
+    > This research paper serves as a comprehensive exploration into the intricacies of urban development by honing in on four critical domains: Traffic Management, 
+    > Energy Consumption Optimization, Healthcare Availability, and Water Resource Management. Each of these domains represents a pivotal aspect of modern city life, 
+    > and this paper seeks to illuminate their nuanced challenges and opportunities. The crux of our investigation lies in the judicious application of advanced algorithms 
+    > and tailored data structures, strategically designed to cater to the unique demands of each sector. The subsequent sections will intricately dissect the applications 
+    > of algorithms and data structures within each domain, providing a comprehensive understanding of how these technological interventions can propel urban environments 
+    > toward sustainable, efficient, and resilient futures.
