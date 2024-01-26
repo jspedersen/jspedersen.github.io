@@ -8,6 +8,7 @@ published: true
 labels:
   - Smart Questions
   - Learning
+  - Stack Overflow
 ---
 
 <img class="img-fluid" src="../img/always-smarter.jpg">
