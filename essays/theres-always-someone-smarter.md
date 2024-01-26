@@ -52,20 +52,9 @@ ColdFusion 8
 Note that the error does not occur when calling the webservice as an object from a ColdFusion page.
 ```
 
-As ‘bill’ met all the requirements for asking a smart question, he got multiple intelligent and extensive answers, with the top-rated one precisely indicating ways of back-tracking the bug, as well as indicating the cause of the problem, and how to solve it, with code examples from their previous encounters with the problem, or similar situations of such!
+As ‘bill’ met all the requirements for asking a smart question, he got multiple intelligent and extensive answers, with the top-rated one precisely indicating ways of back-tracking the bug, as well as indicating the cause of the problem, and how to solve it, with code examples from their previous encounters with the problem, or similar situations of such! Here is a snippet from the top answer to bill's question:
 
 ```
-Tracking it down
-At first I thought this was a coercion bug where null was getting coerced to "null" and a test of "null" == null was passing. It's not. I was close, but so very, very wrong. Sorry about that!
-
-I've since done lots of fiddling on wonderfl.net and tracing through the code in mx.rpc.xml.*. At line 1795 of XMLEncoder (in the 3.5 source), in setValue, all of the XMLEncoding boils down to
-
-currentChild.appendChild(xmlSpecialCharsFilter(Object(value)));
-which is essentially the same as:
-
-currentChild.appendChild("null");
-This code, according to my original fiddle, returns an empty XML element. But why?
-
 Cause
 According to commenter Justin Mclean on bug report FLEX-33664, the following is the culprit (see last two tests in my fiddle which verify this):
 
