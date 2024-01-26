@@ -41,5 +41,10 @@ As ‘bill’ met all the requirements for asking a smart question, he got multi
 
 While learning is an ongoing process we are all continuously doing, we can help ourselves by first researching thoroughly, and if needed, crafting strategic and enticing questions that promote the dedication to learning and collaboration in the world of software engineering. Learning is a million times easier when we know the skill of asking for help!
 
-[](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
-- ChatGPT used for headers
+
+
+### Resources:
+[https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
+
+
+**- ChatGPT used for paragraph headers**
