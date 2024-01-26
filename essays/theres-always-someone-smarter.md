@@ -87,7 +87,7 @@ While learning is an ongoing process we are all continuously doing, we can help 
 
 
 ### Resources:
-[https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
+<a href="https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3">Smart Question - 'Null' Surname Parameter</a>
 
 
 **- ChatGPT used for paragraph headers**
