@@ -18,7 +18,7 @@ The Hotel Management Based System was a design that was created and coded by my 
 
 The Hotel Management System was a project that helped to test my abilities using C++. Before this project, we had around a couple of weeks of learning in C++, so this project tested not just my skills, but also the skills of our team. Our final allowed us to learn what it is like to collaborate with other people, with the need to utilize and develop team-based problem-solving skills. In particular, this project tested our teamwork capabilities as our team varied in C++ knowledge, thus we all collaborated to help each other with creating classes, functions, structures, as well as the overall format for our project. As we were on a time limit, we also had to work proficiently and swiftly, allowing us to finish on by the time it was due.
 
-Attached is some code from that project:
+Attached is one of our classes from that project:
 ```
 #include <string>
 #include <iostream>
