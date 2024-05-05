@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/ai.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 ### I. Introduction
 Artificial Intelligence is the concept and application of humanlike intelligence, used via machines, computer systems, software, and other worldwide/known applications. Over time, AI has been incorporated more and more into education, growing in popularity and serving as a powerful resource and tool. However, while AI can be extremely useful, due to its nature, it can have some very negative and devastating effects if used incorrectly.
