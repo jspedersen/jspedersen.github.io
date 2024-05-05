@@ -20,12 +20,11 @@ Artificial Intelligence is the concept and application of humanlike intelligence
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
-- Explained API/library usage (E18-E20):
-     - For Experience WODs, I sometimes used AI such as ChatGPT when I was confused about either syntax or for general code explanation when I was unsure what something in the Experience WOD template, or whatever specified area the experience was on:
+- For Experience WODs, I sometimes used AI such as ChatGPT when I was confused about either syntax or for general code explanation when I was unsure what something in the Experience WOD template, or whatever specified area the experience was on:
      - Explaining how to correctly formulate the underscore functions with the correct syntax.
      - Explaining the subscription and publish functionality within meteor-related experience WODs (MongoDB).
      - Understanding the implementation of React functions.
-While I only sometimes used AI for the Experience WODs, I would say that when I did, it was quite helpful and useful.
+- While I only sometimes used AI for the Experience WODs, I would say that when I did, it was quite helpful and useful.
 
 
 
