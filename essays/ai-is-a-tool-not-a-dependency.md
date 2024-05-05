@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Navigating the Code Wilderness!"
+title: "AI is a Tool, Not a Dependency."
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-04
 published: true
