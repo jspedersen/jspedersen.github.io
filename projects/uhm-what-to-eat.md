@@ -27,7 +27,7 @@ This project to me, has been one of the best things I have probably done as an I
 <img class="img-fluid" src="../img/uhm-search.png">
 
 ### To Visit Our Website
-Our Github [Repository](https://github.com/uhm-what-to-eat/source-code), [Project] Page(https://uhm-what-to-eat.github.io/), and Deployed [Website](https://uhmwhattoeat.online/) 
+Our Github [Repository](https://github.com/uhm-what-to-eat/source-code), [Project](https://uhm-what-to-eat.github.io/) Page, and Deployed [Website](https://uhmwhattoeat.online/) 
 
 
 
