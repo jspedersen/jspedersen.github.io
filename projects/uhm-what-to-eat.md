@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhm-logo.png
+image: img/uhmlogo.png
 title: "UHM... What To Eat?"
 date: 2024
 published: true
