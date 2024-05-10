@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "Git/GitHub" ]
+      "keywords": [ "WindowsOS", "Git/GitHub", "Ubuntu" ]
     }
   ],
   "education": [
@@ -59,7 +59,7 @@
       "position": "Annotator, Research Project",
       "website": "",
       "startDate": "2023-10-18",
-      "endDate": "Present",
+      "endDate": "2024-02-08",
       "summary": "Successfully annotated results of complex datasets",
       "highlights": [
         "Understanding of cybersecurity concepts and methodologies",
@@ -67,18 +67,51 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "UH Manoa GreyHats",
+      "website": "",
+      "position": "Club Member",
+      "startDate": "2024-01-16",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Gained experience using Ubuntu OS through VirtualBox.",
+        "Practiced and learned cybersecurity fundamentals and ethical hacking skills.",
+        "Participated in team-based hacking competition for the National Cyber League (NCL), placing in the top 5%."
+      ]
+    }
+  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2019 - 2020",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Member of the Year",
+      "date": "2024",
+      "awarder": "Grey Hats, UH Manoa",
+      "summary": "Actively participating in club activities, regularly attending meetings. Contributed to club activities and competitions. "
+    },
+    {
+      "title": "OLA Award (Outstanding Learning Assistant",
+      "date": "2024",
+      "awarder": "Learning Assistant Program at University of Hawai'i at Manoa",
+      "summary": "Award recognizes Learning Assistants who have distinguished contributions to the course(s) they serve, by demonstrating excellence in helping create healthy and engaging learning environments while providing meaningful support to students and faculty."
+    },
+    {
+      "title": "LA Team Excellence Award",
+      "date": "2024",
+      "awarder": "Learning Assistant Program at University of Hawai'i at Manoa",
+      "summary": "The LA Team Excellence Award recognizes outstanding collaborative efforts by Learning Assistant teams who exemplify exceptional collaboration in supporting course instructors, and enhancing student learning outcomes."
     },
     {
       "title": "Deans List",
       "date": "2022 - Present",
       "awarder": "University of Hawaii",
       "summary": "Semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2019 - 2020",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "Phi Theta Kappa Honors Society",
