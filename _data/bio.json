@@ -22,12 +22,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "name": "Languages, Frameworks and Libraries",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Meteor", "TestCafe", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "Git/GitHub", "Ubuntu" ]
+      "keywords": [ "WindowsOS", "Git/GitHub", "Ubuntu", "MongoDB" ]
     }
   ],
   "education": [
