@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/finish-programmer.webp">
+<img width="220px" class="rounded float-start pe-4" src="../img/finish-programmer.webp">
 
 ## 16 Weeks, Already?? 
 As the semester comes to a close, so does our time in ICS 314. In these 16 weeks, this class has taught me more about software engineering than any class I have ever taken prior. Being able to collaborate as a team, to develop a profound and professional project was an esteemed experience, and was the most hands-on I have been in this major thus far. Throughout these 4 months, we were faced with tumultuous times, learning new languages and frameworks, as we vigorously studied and prepared for the weekly stressful WODs. With the final hours for the semester ticking away, I have nothing but grand things to say about this course, and have developed a multitude of different skills and techniques, thanks to ICS 314.
