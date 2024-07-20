@@ -77,7 +77,7 @@
       "summary": "Preprocess and analyze EEG data of substance-exposed neonates",
       "highlights": [
         "Utilized FASTER EEGLAB, FieldTrip, and MATLAB functions for preprocessing and artifact removal, including bad channel identification and interpolation.",
-        "Focused on identifying and analyzing the MMN component within the Event-Related Potentials (ERPs) to determine the neonates' ability to perceive differences in sounds.".
+        "Focused on identifying and analyzing the MMN component within the Event-Related Potentials (ERPs) to determine the neonates' ability to perceive differences in sounds.",
         "Developed MATLAB scripts to automate EEG data preprocessing, filtering, and MMN extraction, improving efficiency and accuracy in data analysis."
       ]
     },
