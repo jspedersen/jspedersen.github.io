@@ -45,8 +45,13 @@
         "ICS 212: Program Structure",
         "ICS 311: Algorithms",
         "MATH 307: Linear Algebra",
-        "ICS 314: Software Engineering I (In Progress)",
-        "ICS 355: Security and Trust I (In Progress)",
+        "ICS 314: Software Engineering I",
+        "ICS 355: Security and Trust I",
+        "ICS 321: Database Systems",
+        "ICS 332: Operating Systems",
+        "ICS 432: Concurrent Programming (Fall 2024 Semester)",
+        "ICS 426: Computer System Security (Fall 2024 Semester)",
+        "ICS 451: Data Networks (Fall 2024 Semester)",
       ]
     }
   ],
@@ -61,6 +66,19 @@
       "highlights": [
         "Set up and manage regular office hours outside of the classroom to offer personalized assistance to students. Address students’ questions and concerns related to math coursework.",
         "Tutor, providing one-on-one, group, and in-class tutoring sessions to help students understand complex math concepts."
+      ]
+    },
+    {
+       "company": "UH Manoa",
+      "position": "Research Assistant in Cognitive and Translational Neuroscience",
+      "website": "",
+      "startDate": "2024-6-01",
+      "endDate": "Ongoing",
+      "summary": "Preprocess and analyze EEG data of substance-exposed neonates",
+      "highlights": [
+        "Utilized FASTER EEGLAB and FieldTrip functions for preprocessing and artifact removal, including bad channel identification and interpolation.",
+        "Focused on identifying and analyzing the MMN component within the Event-Related Potentials (ERPs) to determine the neonates' ability to perceive differences in sounds.".
+        "Developed scripts to automate EEG data preprocessing, filtering, and MMN extraction, improving efficiency and accuracy in data analysis."
       ]
     },
     {
