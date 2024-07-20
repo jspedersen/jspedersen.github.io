@@ -73,7 +73,7 @@
       "position": "Research Assistant in Cognitive and Translational Neuroscience",
       "website": "",
       "startDate": "2024-6-01",
-      "endDate": "Ongoing",
+      "endDate": "Present",
       "summary": "Preprocess and analyze EEG data of substance-exposed neonates",
       "highlights": [
         "Utilized FASTER EEGLAB and FieldTrip functions for preprocessing and artifact removal, including bad channel identification and interpolation.",
