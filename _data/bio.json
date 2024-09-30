@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Development" },
     { "name": "Cybersecurity" },
-    { "name": "Cloud Computing" },
-    { "name": "Web Development" },
-    { "name": "Mathematics" }
+    { "name": "Networking" },
+    { "name": "Cloud Networking" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
